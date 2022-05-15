@@ -17,7 +17,7 @@ npm install --save react-native-animatable
 ```
 
 ```bash
-npm install --save react-native-collapsible-Accordion
+npm install --save react-native-collapsible-accordion
 ```
 
 
